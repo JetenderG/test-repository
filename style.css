@@ -5,8 +5,7 @@ font-family: Georgia,"Times New Roman",Times,serif;
 color:#333333;
     background-color:#efeee7;
      
-        margin:0;
-        padding:0;
+       
         
 }
 
@@ -15,6 +14,7 @@ header{
 
 
     background-color:#333333;
+    text-align:center;
 }
 
 h1{
@@ -26,6 +26,12 @@ font-size:28px;
 text-align:center;
 
 margin: auto;
+
+ background-position: 10%;
+
+ margin: 0px 0px 15px 0px;
+
+ height: auto;
 
 
 }
@@ -51,11 +57,11 @@ line-height: 1.5;
 #imagesection{
 
 float:left;
-
 width: 200px;
 
 margin: 30px;
 
+margin-top: 7px;
 
 }
 
@@ -75,6 +81,19 @@ padding: 30px;
 li{
 
 }
+
+
+body, html{
+    margin-top:0%;
+    padding:0%;
+}
+
+img{
+
+    margin-top: 5px;
+
+}
+
 /*h2
 The font size is 24px
 
